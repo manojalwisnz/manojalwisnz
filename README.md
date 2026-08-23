@@ -81,12 +81,29 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**AI / LLM**
+**AI — Models**
+
+![Claude](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=for-the-badge&logoColor=white&labelColor=1a1a1a)
+![GPT-4o](https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Llama](https://img.shields.io/badge/Meta_Llama-0082FB?style=for-the-badge&logo=meta&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral_AI-FF7000?style=for-the-badge&logoColor=white&labelColor=1a1a1a)
+
+**AI — Frameworks & Orchestration**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=00ff88)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6E42C1?style=for-the-badge&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logoColor=white&labelColor=1a1a1a)
+
+**AI — Infrastructure & RAG**
 
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-00ff88?style=for-the-badge&logoColor=black&labelColor=0d1117)
-![Anthropic](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=for-the-badge&logoColor=white&labelColor=1a1a1a)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=00ff88&labelColor=0d1117)
+![LangSmith](https://img.shields.io/badge/LangSmith-F7C344?style=for-the-badge&logoColor=black)
 
 **Tooling & Infra**
 
