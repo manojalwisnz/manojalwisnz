@@ -105,6 +105,17 @@
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=00ff88&labelColor=0d1117)
 ![LangSmith](https://img.shields.io/badge/LangSmith-F7C344?style=for-the-badge&logoColor=black)
 
+**AI — On-Device / Mobile Inference**
+
+![Core ML](https://img.shields.io/badge/Apple_Core_ML-000000?style=for-the-badge&logo=apple&logoColor=white)
+![MLX](https://img.shields.io/badge/Apple_MLX-000000?style=for-the-badge&logo=apple&logoColor=00ff88)
+![ExecuTorch](https://img.shields.io/badge/ExecuTorch-0082FB?style=for-the-badge&logo=meta&logoColor=white)
+![MLC LLM](https://img.shields.io/badge/MLC_LLM-6E42C1?style=for-the-badge&logoColor=white)
+![Google AI Edge](https://img.shields.io/badge/Google_AI_Edge-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logoColor=white)
+![TFLite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-000000?style=for-the-badge&logoColor=00ff88&labelColor=0d1117)
+
 **Tooling & Infra**
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
